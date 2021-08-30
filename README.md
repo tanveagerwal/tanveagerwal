@@ -1,7 +1,5 @@
--
-- 🌱 **Instruction sets for strangers**
-- 
-- 
+ 🌱 **Instruction sets for strangers**
+
 
 
 <!---
